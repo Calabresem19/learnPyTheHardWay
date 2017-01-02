@@ -1,4 +1,4 @@
-from sys import argv
+hofrom sys import argv
 
 script, filename = argv
 
